@@ -76,10 +76,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ansh642&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+1. <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ansh642&show_icons=true&count_private=true&hide_border=true&&theme=dark" align="center" /></div>  
 
 <br/>  
 
+
+### <div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=prithvi009&&theme=dark)](https://git.io/streak-stats) </div>  
 
 ## Recent Blog Posts  
   
